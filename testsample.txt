@@ -1,1 +1,5 @@
 this is first sample file
+
+now cloned the same file into linux server
+
+got the changes
